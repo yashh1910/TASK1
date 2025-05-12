@@ -1,8 +1,8 @@
 # TASK1: Data Cleaning and Preprocessing
 
 # 📊Dataset Used
--Name: Customer Personality Analysis
-    -Source : Kaggle
+     Name: Customer Personality Analysis
+     Source : Kaggle
 
 # 📌Task Overview
     Objective: Clean and prepare the raw Customer Personality Analysis dataset by addressing missing values, duplicates, inconsistent formats, and data type issues using Excel.
@@ -19,3 +19,5 @@
     Microsoft Excel
 
 # 📁 Files Included
+     screenshots some steps.
+     excel file:cleaned data set (customer_personality analysis).
